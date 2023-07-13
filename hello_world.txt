@@ -1,0 +1,2 @@
+Hello, this is my first step for Odin!
+This message is written by VIM
